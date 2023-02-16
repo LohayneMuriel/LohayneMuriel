@@ -1,6 +1,5 @@
 ## Oiii eu sou a Lohayne Muriel!
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LohayneMuriel&show_icons=true&theme=dracula)
-  ##
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LohayneMuriel&langs_count=10&theme=dracula)](https://github.com/LohayneMuriel/github-readme-stats)
 
 <div style="display: inline_block"><br>
