@@ -3,6 +3,7 @@
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LohayneMuriel&show_icons=true&theme=dracula)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LohayneMuriel&langs_count=10&theme=dracula)](https://github.com/LohayneMuriel/github-readme-stats)
+  
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lo-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
@@ -10,7 +11,9 @@
   <img align="center" alt="Lo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Lo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
+  <img align="right" alt="Lo-pic" height="200" style="border-radius: 100px" src="https://cdn.picrew.me/shareImg/org/202302/338224_cVdewiMT.png">
+</div>
+
   ##
  
 </div>
