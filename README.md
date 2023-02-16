@@ -1,4 +1,4 @@
-## Olá!, eu sou a Lohayne Muriel
+## Olá!, eu sou a Lohayne Muriel 😉
 ### Seja Bem-vindo(a) ao meu perfil!
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LohayneMuriel&show_icons=true&theme=dracula)
