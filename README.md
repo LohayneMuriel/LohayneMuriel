@@ -7,11 +7,12 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lo-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="Lo-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Lo-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Lo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Lo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Lo-pic" height="200" style="border-radius: 100px" src="https://cdn.picrew.me/shareImg/org/202302/338224_cVdewiMT.png">
+  <img align="right" alt="Lo-pic" height="250" style="border-radius: 100px" src="https://cdn.picrew.me/shareImg/org/202302/338224_cVdewiMT.png">
 </div>
 
   ##
