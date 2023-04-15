@@ -26,5 +26,5 @@
   <a href="https://www.linkedin.com/in/lohayne-muriel" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="http://lattes.cnpq.br/3380030757344373" target="_blank"><img width="100" height="28" src="https://th.bing.com/th/id/R.1657635cf17dd85046e413ba09c8f8c3?rik=m9pV%2fWkI2HJSgw&riu=http%3a%2f%2f2.bp.blogspot.com%2f-k_k1KUiQCGc%2fT46n_sh8rlI%2fAAAAAAAAEsI%2fVhw55oJcVCo%2fs1600%2flogo%2blattes.jpg&ehk=U0tAlmu4GrcKcFtuDz8zX3UdNMUlCP7uNfpFrJ5p%2bBI%3d&risl=&pid=ImgRaw&r=0" target="_blank"></a> 
   
-  
+   
 </div>
